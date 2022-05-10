@@ -490,6 +490,8 @@ main {
   left: 0;
   background-color: rgba(170, 92, 219, 0.9);
   mix-blend-mode: multiply;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .card__image img {
